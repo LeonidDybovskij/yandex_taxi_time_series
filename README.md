@@ -1,3 +1,3 @@
 # Taxi time series
 
-To predict number of taxi orders, time series approach was learnt.
+Here, time series approach was applied for prediction of the number of taxi orders.
